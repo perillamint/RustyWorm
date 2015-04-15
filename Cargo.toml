@@ -1,0 +1,9 @@
+[package]
+
+name = "RustyWorm"
+version = "0.0.1"
+authors = ["perillamint <perillamint@gmail.com>"]
+
+[dependencies]
+toml = "0.1.20"
+xml-rs = "0.1.23"
