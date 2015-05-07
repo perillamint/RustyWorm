@@ -1,2 +1,2 @@
 # RustyWorm
-Connectome emulator written in rust. Intended to run on raspberry pi 1
+Connectome simulator written in rust. Intended to run on intel edison.
